@@ -10,4 +10,4 @@ I am a QA Engineer based in Paris, France 🇫🇷
 
 #### Let's connect!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](linkedin.com/in/stephanerabenarisoa)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/stephanerabenarisoa)
